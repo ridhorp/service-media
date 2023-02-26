@@ -1,5 +1,5 @@
 # Nama Aplikasi
-## Service Media
+Service Media
 
 # Deskripsi
 Service Media adalah sebuah aplikasi yang menyediakan berbagai layanan untuk mengelola media seperti gambar, video, dan audio. Aplikasi ini dapat melakukan penyimpanan, pemrosesan, dan distribusi media dalam suatu sistem.
